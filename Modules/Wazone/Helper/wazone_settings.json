@@ -1,0 +1,8 @@
+{
+  "wazone_panel": "https://mydomain.com",
+  "wazone_server": "https://api.mydomain.com",
+  "wazone_sender": "5531912341234",
+  "wazone_token": "123456",
+  "wazone_fallback": "none",
+  "wazone_timeout": "3"
+}

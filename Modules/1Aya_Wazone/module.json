@@ -1,0 +1,11 @@
+{
+  "name": "Wazone",
+  "alias": "wazone",
+  "description": "(v4.3.3) Whatsapp Notification Module for Foodomaa",
+  "keywords": [],
+  "order": 0,
+  "providers": ["Modules\\Wazone\\Providers\\WazoneServiceProvider"],
+  "aliases": [],
+  "files": [],
+  "requires": []
+}

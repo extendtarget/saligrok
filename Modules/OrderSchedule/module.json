@@ -1,0 +1,17 @@
+{
+	"name": "OrderSchedule",
+	"alias": "orderschedule",
+	"description": "Allow orders to be scheduled by customers",
+	"keywords": [],
+	"order": 0,
+	"providers": ["Modules\\OrderSchedule\\Providers\\OrderScheduleServiceProvider"],
+	"aliases": {},
+	"files": [],
+	"requires": [],
+	"settingKeys": {
+		"enableOrderSchedulingOnCustomer": true,
+		"enFixedNumberOfDays": false,
+		"orderSchedulingFutureDays": "7",
+		"minsBeforeScheduleOrderProcessed": "30"
+	}
+}

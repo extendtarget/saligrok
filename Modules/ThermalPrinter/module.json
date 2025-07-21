@@ -1,0 +1,13 @@
+{
+    "name": "ThermalPrinter",
+    "alias": "thermalprinter",
+    "description": "Connect Foodomaa to a POS Printer and automaitcally print recipts",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ThermalPrinter\\Providers\\ThermalPrinterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

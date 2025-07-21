@@ -1,0 +1,8 @@
+{
+    "DeliveryAreaPro": true,
+    "CallAndOrder": true,
+    "SuperCache": true,
+    "OrderSchedule": true,
+    "ManageOrder": true,
+    "Wazone": true
+}

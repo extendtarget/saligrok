@@ -1,0 +1,13 @@
+{
+    "name": "CallAndOrder",
+    "alias": "callandorder",
+    "description": "Create manual orders over call for new and exisiting customers",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CallAndOrder\\Providers\\CallAndOrderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

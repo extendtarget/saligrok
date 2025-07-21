@@ -1,0 +1,23 @@
+{
+  "name": "nwidart/wazone",
+  "description": "",
+  "authors": [
+    {
+      "name": "Nicolas Widart",
+      "email": "n.widart@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Modules\\Wazone\\Providers\\WazoneServiceProvider"
+      ],
+      "aliases": {}
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Modules\\Wazone\\": ""
+    }
+  }
+}

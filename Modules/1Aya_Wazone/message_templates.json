@@ -1,0 +1,43 @@
+{
+  
+    "msg_owner": "مرحبا {restaurant_name}\r\nلديك طلب جديد على تطبيق موتوبوكس \r\nرمز الطلب : {unique_order_id}\r\nيرجى تحقق من تطبيق المطاعم الخاص بك\r\n\r\nملاحظات الطلب : {order_comment}",
+  
+    "msg_store": "مرحبا {restaurant_name}\r\nلديك طلب جديد على تطبيق موتوبوكس \r\nرمز الطلب : {unique_order_id}\r\nيرجى تحقق من تطبيق المطاعم الخاص بك\r\n\r\nملاحظات الطلب : {order_comment}",
+  
+    "msg_driver": null,
+  
+    "msg_customer": null,
+  
+    "msg_admin": null,
+  
+    "msg_otp": "رمز التحقق الخاص بك هو : *{otp}*",
+  
+    "msg_status2": null,
+  
+    "msg_status3": null,
+  
+    "msg_status4": "تم استلام طلبكم من قبل شركة موتوبوكس لخدمات التوصيل\r\n\r\nجاري توصيل طلبكم من {restaurant_name}\r\n\r\nقيمة فاتورتكم: {total} ل.س بدون أي رسوم إضافية\r\nطريقة الدفع: {payment_mode}\r\n{payment_details}\r\n\r\nلا تتردد في التـواصل معنا لأي اسـتفسار أو شكوى",
+  
+    "msg_guest_status4": "تم استلام طلبكم من قبل شركة موتوبوكس لخدمات التوصيل\r\n\r\nجاري توصيل طلبكم من {restaurant_name}\r\n\r\nقيمة فاتورتكم: {total} ل.س بدون أي رسوم إضافية\r\nطريقة الدفع: {payment_mode}\r\n{payment_details}\r\n\r\nلا تتردد في التـواصل معنا لأي اسـتفسار أو شكوى",
+  
+    "msg_admin_status4": "تم التقاط الطلب من {restaurant_name}\r\n\r\nرمز الطلب: {unique_order_id}\r\nالعميل: {customer_name}\r\nرقم العميل: {customer_phone}\r\nالمبلغ الإجمالي: {total} ل.س\r\nطريقة الدفع: {payment_mode}\r\n\r\nمع أطيب التحيات\r\nفريق موتوبوكس",
+  
+    "msg_status5": "تم استلام الطلب من قبلكم\r\n\r\nاستخدم الكوبون NEW للحصول على خصم خاص على طلبك الأول من التطبيق\r\n\r\nهاتف الدعم والطلبات: 0945555128 اتصال هاتفي فقط\r\n\r\nرابط تحميل التطبيق: motoboxapp.com",
+  
+    "msg_guest_status5": "تم استلام الطلب من قبلكم\r\n\r\nاستخدم الكوبون NEW للحصول على خصم خاص على طلبك الأول من التطبيق\r\n\r\nهاتف الدعم والطلبات: 0945555128 اتصال هاتفي فقط\r\n\r\nرابط تحميل التطبيق: motoboxapp.com",
+  
+    "msg_status6": "{cancel_reason}",
+  
+    "msg_status7": null,
+  
+    "msg_status8": null,
+  
+    "msg_status9": null,
+  
+    "msg_status10": null,
+  
+    "msg_status11": null,
+  
+    "msg_cancel": null
+
+}

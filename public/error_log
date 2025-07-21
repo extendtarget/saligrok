@@ -1,0 +1,61 @@
+[05-May-2025 12:01:38 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:38 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:39 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:40 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:40 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:40 Asia/Baghdad] PHP Warning:  Uncaught ErrorException: require(/home/moto/public_html/app.motoboxapp.com/routes/api.php): failed to open stream: No such file or directory in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/m...', '/home/moto/publ...', 35, Array)
+#1 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/moto/publ...')
+#3 /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/moto/publ...')
+#4 /home/moto/public_html/app in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[05-May-2025 12:01:40 Asia/Baghdad] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/moto/public_html/app.motoboxapp.com/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/moto/public_html/app.motoboxapp.com/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[12-Jun-2025 18:19:38 UTC] PHP Fatal error:  Uncaught ErrorException: Unknown: MySQL server has gone away in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'Unknown: MySQL ...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in Unknown on line 0

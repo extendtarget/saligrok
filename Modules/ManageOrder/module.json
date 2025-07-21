@@ -1,0 +1,13 @@
+{
+    "name": "ManageOrder",
+    "alias": "manageorder",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ManageOrder\\Providers\\ManageOrderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

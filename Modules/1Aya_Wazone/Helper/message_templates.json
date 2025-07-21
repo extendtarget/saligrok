@@ -1,0 +1,19 @@
+{
+  "msg_owner": "\ud83e\udd70Message for {target}\ud83e\udd70\r\nOrder Id: {unique_order_id}\r\nStore: {restaurant_name}\r\nCustomer: {customer_name}\r\nCust.Phn: {customer_phone}\r\nPayment: {payment_mode}\r\nItems Detail: \r\n{items}\r\nTotal: {total}\r\nThank you for your Order!",
+  "msg_store": "\ud83e\udd70Message for {target}\ud83e\udd70\r\nOrder Id: {unique_order_id}\r\nStore: {restaurant_name}\r\nCustomer: {customer_name}\r\nCust.Phn: {customer_phone}\r\nPayment: {payment_mode}\r\nItems Detail: \r\n{items}\r\nTotal: {total}\r\nThank you for your Order!",
+  "msg_driver": "\ud83e\udd70Message for {target}\ud83e\udd70\r\nOrder Id: {unique_order_id}\r\nStore: {restaurant_name}\r\nCustomer: {customer_name}\r\nCust.Phn: {customer_phone}\r\nPayment: {payment_mode}\r\nItems Detail: \r\n{items}\r\nTotal:  {total}\r\nThank you for your Order!",
+  "msg_customer": "\ud83e\udd70Message for {target}\ud83e\udd70\r\nOrder Id: {unique_order_id}\r\nStore: {restaurant_name}\r\nCustomer: {customer_name}\r\nCust.Phn: {customer_phone}\r\nPayment: {payment_mode}\r\nItems Detail: \r\n{items}\r\nTotal: {total}\r\nThank you for your Order!",
+  "msg_admin": "\ud83e\udd70Message for {target}\ud83e\udd70\r\nOrder Id: {unique_order_id}\r\nStore: {restaurant_name}\r\nCustomer: {customer_name}\r\nCust.Phn: {customer_phone}\r\nPayment: {payment_mode}\r\nItems Detail: \r\n{items}\r\nTotal: {total}\r\nThank you for your Order!",
+  "msg_otp": "Your Foodomaa OTP is: {otp}\r\nPlease do not share this with anyone!",
+  "msg_status2": "{customer_name}, {restaurant_name} is preparing your order now",
+  "msg_status3": "{customer_name}, we found a driver for your order",
+  "msg_status4": "{customer_name}, your driver just picked up your order, and now is on his way to your place",
+  "msg_status5": "{customer_name}, your order has been delivered. Thank you and order back soon!",
+  "msg_status6": "{customer_name}, your order has been canceled",
+  "msg_status7": "{customer_name}, your order is ready for pick up",
+  "msg_status8": "{customer_name}, please complete your payment so we can prepare your order soon",
+  "msg_status9": "{customer_name}, we are sorry.. but your payment seems to be failed",
+  "msg_status10": "{customer_name}, your order has been scheduled",
+  "msg_status11": "{customer_name}, your order has been confirmed",
+  "msg_cancel": "ORDER CANCELED!\r\nOrder ID: {unique_order_id}\r\nRestaurant: {restaurant_name}\r\nCustomer: {customer_name}\r\nTotal: {total}"
+}
